@@ -17,7 +17,7 @@ We’re committed to the hackathon values of **innovation, integrity, and collab
 ## **Team Information**
 - **Team Name:** 404 FOUND  
 - **Team Captain (GitHub):** [@SUBHAZIT](https://github.com/SUBHAZIT)  
-- **Repository Name:** 35-MAHAKUMBH  
+- **Repository Name:** 11-404-Found 
 
 ---
 
